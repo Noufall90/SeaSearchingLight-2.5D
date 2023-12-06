@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PlayerMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 5db7d622d77a02542bef17c5aa9ffc4b, type: 3}
+  m_Name: MaterialShader
+  m_Shader: {fileID: -6465566751694194690, guid: 4b8cd7cace9add14597f1506f320b9ab, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -45,7 +45,7 @@ Material:
     - _QueueOffset: 0
     m_Colors: []
   m_BuildTextureStacks: []
---- !u!114 &5535944663906665098
+--- !u!114 &4303431526792921995
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
