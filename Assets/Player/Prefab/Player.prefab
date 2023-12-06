@@ -155,6 +155,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  sprintSpeed: 15
+  raycastDistance: 2
   animator: {fileID: 6925730943295134237}
   physicsBody: {fileID: 779760510743210158}
   spriteRenderer: {fileID: 2736733841488517801}
